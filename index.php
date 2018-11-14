@@ -16,7 +16,7 @@
 <?php include('includes/top-nav.php');?>
   <!-- partial -->
   <div class="container-fluid page-body-wrapper"> 
-    
+    <p>testing</p>
     <!-- partial:partials/_sidebar.html -->
     <?php include('includes/sidebar.php');?>
     
